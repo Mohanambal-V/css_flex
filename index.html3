@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>ANIMALS</h1>
+
+    <div class="main">
+        
+        <div class="left">
+            <h2>Domestic Animals </h2>
+            <h2 class="right">Wild Animals</h2>
+        <div>
+            <img  src="/images/cat.jpeg" alt=""> 
+            <img  src="/images/dog.webp" alt="">
+            <img src="/images/lion.jpeg" alt="">
+            <img src="/images/tiger new.jpeg" alt="">
+            <img src="/images/rabbit.jpeg" alt="">
+            <img  src="/images/goat.jpeg" alt="">
+            <img src="/images/chhetah.jpeg" alt="">
+            <img src="/images/fox.jpg" alt="">
+           
+        </div>
+        </div>
+    </div>
+   
+    
+</body>
+</html>
