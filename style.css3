@@ -1,0 +1,57 @@
+body{
+   
+    background: url(/images/pexels-mark-plötz-1671230.jpg);
+    overflow-y: hidden;
+
+}
+h1{
+    font-size: 50px;
+    color:white;
+    padding-left: 45%;
+}
+h2{
+    color: orange;
+    font-size: 40px;
+    padding-left: 10%;
+    margin-bottom: -200%;
+}
+.right{
+    padding-inline-start: 28%;
+}
+h2:hover{
+    color: aliceblue;
+}
+.main{
+    background-color: rgba(0, 0, 0, 0.714);
+    width: 1300px;
+    height: 750px;
+    margin-left: 20%;
+    margin-right: 25%;
+    padding-left: 50px;
+    border-radius: 20px;
+    margin-bottom: 10%;
+}
+div{
+    display: flex;
+    flex-wrap: wrap;
+}
+.head{
+    color: orange;
+    font-size: 30px;
+}
+
+div img{
+    
+    display: grid;
+    margin-left: 20px;
+    width: 250px;
+    height: 200px;
+    border-radius: 5px;
+    border: 3px solid white;
+    object-position: center;
+   margin-right: 30px;
+   margin-bottom: 20px;
+}
+img:hover{
+    border: 5px solid orange;
+}
